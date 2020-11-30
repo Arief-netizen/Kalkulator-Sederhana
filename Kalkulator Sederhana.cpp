@@ -57,9 +57,9 @@ int pangkat(){
 int keluar(){
  hasnan();
  cout<<"Terima kasih telah menggunakan Program Kalkulator Sederhana"<<endl;
- cout<<"Program ini disusun oleh Hasnan Habib Jauhari, Mahasiswa UIN SGD Bandung"<<endl;
+ cout<<"Program ini disusun oleh Imam Arief Al Baihaqy, Mahasiswa Universitas Negeri Surabaya"<<endl;
  hasnan();
- cout<<"Ditulis ulang oleh Imam Arief Al Baihaqy"<<endl;
+ cout<<"Terima Kasih"<<endl;
 
 
  exit(0);
@@ -97,9 +97,9 @@ int pilihan(){
 int main(){
  cout<<"\tProgram Kalkulator Sederhana"<<endl;
  cout<<"\t        2 Bilangan"<<endl;
- cout<<"\tImam Arief Al Baihaqy"<<endl;
- cout<<"\tNim:19051397006"<<endl;
- cout<<"\tD4-MANAJEMEN INFORMATIKA"<<endl;
+ cout<<"\t Nama: Imam Arief Al Baihaqy"<<endl;
+ cout<<"\t Nim: 19051397006"<<endl;
+ cout<<"\t Prodi/Kelas: D4 Manajemen Informatika/2019A"<<endl;
  cout<<"Pilih Operator"<<endl;
  cout<<"--------------"<<endl;
  cout<<"1. Penjumlahan"<<endl;
